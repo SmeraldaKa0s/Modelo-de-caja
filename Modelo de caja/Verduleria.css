@@ -1,0 +1,46 @@
+body {
+font-family: Muli, sans-serif;
+background-color: #A5D6A7 ;
+color: #151515;
+}
+
+.container {
+    
+    
+    width: 250px;
+    height: 290px;
+    background-color: #f7f7fc;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 150px auto;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+    text-align: center;
+}
+
+.container-tittle {
+    
+    margin-top: 0;
+    color: #242E4C;
+}
+
+.container-description {
+   color: #7D7A9E;
+   
+}
+
+
+.fruits {
+ margin-top: 25px;
+
+}
+
+.fruit {
+
+    width: 160px;
+    background-color: #ffffff;
+    border: 1px solid #ebebf2;
+    border-radius: 100px;
+    padding: 5px;
+    margin: 0 auto 10px;
+
+}

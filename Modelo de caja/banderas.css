@@ -1,0 +1,106 @@
+body {
+    background-color:rgba(128, 128, 128, 0.329);
+}
+
+.bandera {
+
+
+width: 300px;
+height: 200px;
+background-color: burlywood;
+margin: 10px 60px;
+float: left;
+}
+
+.ale1 {
+    background-color: black;
+    height: 66.66px;
+}
+
+.ale2 {
+    background-color: red;
+    height: 66.66px;
+}
+
+.ale3 {
+    background-color: yellow;
+    height: 66.66px;
+}
+
+.boli1 {
+background-color: red;
+height: 66.66px;
+}
+
+.boli2 {
+background-color: yellow;
+height: 66.66px;
+}
+
+.boli3 {
+background-color: green;
+height: 66.66px;
+}
+
+.mauri1 {
+background-color: red;
+height: 50px;
+}
+
+.mauri2 {
+background-color: rgb(3, 3, 99);
+height: 50px;
+}
+
+.mauri3 {
+background-color: yellow;
+height: 50px;
+}
+
+.mauri4 {
+background-color: rgb(48, 184, 48);
+height: 50px; 
+}
+
+
+.estonia {
+background-color: cornflowerblue;
+height: 66.66px;
+}
+
+.estonia2 {
+background-color: black;
+height: 66.66px;
+}
+
+.estonia3 {
+background-color: white;
+height: 66.66px; 
+}
+
+.luxem {
+background-color: red;
+height: 66.66px;
+}
+
+.luxem2 {
+background-color: white;
+height: 66.66px;
+}
+
+.luxem3 {
+background-color: rgb(16, 137, 207);
+height: 66.66px;
+}
+
+
+.peru {
+background-color: red;
+height: 66.66px;
+}
+
+.peru1 {
+    background-color: white;
+    height: 66.66px;
+}
+

@@ -1,0 +1,39 @@
+.claseDiv {
+    height: 400px;
+    width: 400px;
+    background-color: #FFFFFF;
+    margin-top: 100px;
+    margin-left: 400px;
+    padding-right: 30px;
+    border-radius: 5px; 
+    box-shadow: 10px 10px 10px  #E9F2F7;
+}
+
+body {
+    background-color: #F9F9FB;
+}
+
+img {
+    width: 70px;
+    height: 70px;
+    margin: 50px 0 0 50px;
+}
+
+h2, p, button {
+    margin-left: 50px;
+}
+
+
+.button {
+    width: 35%;
+    height: 10%;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 0px; 
+    background: linear-gradient( to left, #567DE4, #5697E4);
+}
+
+.claseA {
+text-decoration: none;
+color: #708EE8;
+}
